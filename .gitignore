@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+conda/
+data/
+output/
+.DS_Store
+
