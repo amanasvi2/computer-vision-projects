@@ -1,8 +1,30 @@
+# Mac / system
+.DS_Store
+
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.venv/
+venv/
+env/
 conda/
-data/
-output/
-.DS_Store
 
+# Big/private files
+*.zip
+*.npz
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.mat
+data/
+datasets/
+outputs/
+output/
+logs/
+wandb/
+
+# Personal / gradescope
+*submission*
+*gradescope*
